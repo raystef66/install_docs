@@ -8,7 +8,7 @@
 ### First time installation (clean flash):
 
 * Backup your data to PC, OTG flash drive
-* Make use of [preferred recovery](https://sourceforge.net/projects/cepheus/files/recovery/OrangeFox-Unofficial-cepheus-A14retrofit-02Jan2024.zip/download)
+* Make use of recovery (from download page, recovery button)
 * Boot recovery
 * Flash V12.5.6.0.RFACNXM (skip if you are already on this version)
 * Flash crDroid 11.x
@@ -22,4 +22,4 @@
 
 ### Update installation: (if already on cr11)
 
-* Skip format
+* Follow same install steps but skip format
