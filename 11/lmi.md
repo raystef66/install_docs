@@ -8,7 +8,7 @@
 ### First time installation (clean flash):
 
 * Backup your data to PC, OTG flash drive
-* Make use of [preferred recovery](https://mega.nz/file/O7oGHJYa#eK2obRf9AQZZWTy38yS11HX9_ZpgwbrB2Sk3FnmO17Y)
+* Make use of recovery (from download page, recovery button)
 * Boot recovery
 * Flash V14.0.1.0.SJKMIXM (skip if you are already on this version)
 * Flash crDroid 11.x
@@ -22,4 +22,4 @@
 
 ### Update installation: (if already on cr11)
 
-* Skip format
+* Follow same install steps but skip format
