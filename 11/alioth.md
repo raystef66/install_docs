@@ -8,7 +8,7 @@
 ### First time installation (clean flash):
 
 * Backup your data to PC, OTG flash drive
-* Make use of [preferred recovery](https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/alioth/) (I'm using OFox)
+* Make use of recovery (from download page, firmware button - I'm using OFox)
 * Boot recovery
 * Flash OS1.0.2.0.TKHMIXM (skip if you are already on this version)
 * Flash crDroid 11.x (toggle auto flash twrp)
@@ -22,4 +22,4 @@
 
 ### Update installation: (if already on cr11)
 
-* Skip format
+* Follow same install steps but skip format
