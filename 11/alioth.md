@@ -8,7 +8,7 @@
 ### First time installation (clean flash):
 
 * Backup your data to PC, OTG flash drive
-* Make use of recovery (from download page, firmware button - I'm using OFox)
+* Make use of recovery (from download page, recovery button - I'm using OFox)
 * Boot recovery
 * Flash OS1.0.2.0.TKHMIXM (skip if you are already on this version)
 * Flash crDroid 11.x (toggle auto flash twrp)
