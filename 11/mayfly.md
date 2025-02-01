@@ -10,7 +10,7 @@
    - M2102K1AC
 5. **Boot your device with the stock OS at least once and check every functionality.**
 
-> **Warning:** Make sure that you can send and receive SMS and place and receive calls (also via WiFi and LTE, if available), otherwise it won’t work on crDroid either! Additionally, some devices require that VoLTE/VoWiFi be utilized once on stock to provision IMS.  
+> **Warning:** Make sure that you can send and receive SMS and place and receive calls (also via WiFi and LTE, if available), otherwise it won’t work on crDroid either! Additionally, some devices require that VoLTE/VoWiFi be utilized once on stock to provision IMS.   
 6. **Remove all Google accounts from your device to avoid “Factory reset protection”**.  
 7. **crDroid is provided as-is with no warranty. While we attempt to verify everything works you are installing this at your own risk!**  
 
@@ -19,7 +19,7 @@
 ## Flashing additional partitions
 > **Warning:** This platform requires additional partitions to be flashed for recovery to work properly, the process to do so is described below.
 
-1. Download the following files from [here](https://sourceforge.net/projects/crdroid/files/mars/11.x/recovery/):
+1. Download the following files from [here](https://sourceforge.net/projects/crdroid/files/mayfly/11.x/recovery/):
    - **dtbo.img**
    - **vendor_boot.img**
 2. **Power off the device, and boot it into bootloader mode:**
